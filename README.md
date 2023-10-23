@@ -2,6 +2,7 @@ med_data_explorer
 ==============================
 
 Exploring Few dataset of Medicine:
+
 1. Dataset 1 - This dataset provides a comprehensive overview of the MedEasy online pharmacy and healthcare platform in Bangladesh. It covers various categories related to the platform's services, features, and benefits, highlighting its role in providing accessible and affordable healthcare services to the population.
 
 *   https://www.kaggle.com/datasets/toriqulstu/all-medicine-and-drug-price-data20k-bangladesh
@@ -11,6 +12,11 @@ Exploring Few dataset of Medicine:
 The prescription vector for each doctor tells a rich story about that doctor's attributes, including specialty, gender, age, and region. There are 239,930 doctors in the dataset.
 
 *   https://www.kaggle.com/datasets/roamresearch/prescriptionbasedprediction
+
+Article
+=======
+
+https://www.chathamhouse.org/2020/07/artificial-intelligence-healthcare-insights-india-0/3-ai-healthcare-india-applications
 
 Project Organization
 ------------
