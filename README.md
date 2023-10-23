@@ -1,7 +1,16 @@
 med_data_explorer
 ==============================
 
-exploring data science project
+Exploring Few dataset of Medicine:
+1. Dataset 1 - This dataset provides a comprehensive overview of the MedEasy online pharmacy and healthcare platform in Bangladesh. It covers various categories related to the platform's services, features, and benefits, highlighting its role in providing accessible and affordable healthcare services to the population.
+
+*   https://www.kaggle.com/datasets/toriqulstu/all-medicine-and-drug-price-data20k-bangladesh
+
+2. Dataset 2 - This is the dataset used in the Roam blog post Prescription-based prediction. It is derived from a variety of US open health datasets, but the bulk of the data points come from the Medicare Part D dataset and the National Provider Identifier dataset.
+
+The prescription vector for each doctor tells a rich story about that doctor's attributes, including specialty, gender, age, and region. There are 239,930 doctors in the dataset.
+
+*   https://www.kaggle.com/datasets/roamresearch/prescriptionbasedprediction
 
 Project Organization
 ------------
