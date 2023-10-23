@@ -1,4 +1,4 @@
-med_data_explorer
+Generative Generic Medicine App
 ==============================
 
 Exploring Few dataset of Medicine:
