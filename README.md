@@ -1,4 +1,4 @@
-data_explorer
+med_data_explorer
 ==============================
 
 exploring data science project
